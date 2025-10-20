@@ -157,7 +157,7 @@ Verifique se a instalação do ImageMagick suporta o formato GIF.
 
 
 ## Step-by-step da execução
-
+```
 ========================================
    DIJKSTRA'S ALGORITHM VISUALIZATION
 ========================================
@@ -496,3 +496,4 @@ Shortest paths from start vertex:
 
 
 Generated 15 visualization steps
+```
